@@ -91,16 +91,14 @@ End the program and close the output video windows by pressing 'q'.
 ```
 ## Output
 ### i) Write the frame as JPG image
-<img width="70%" height="50%" src ="https://user-images.githubusercontent.com/75234646/162026337-24a8abcd-6513-4a16-8220-f30f316ad6eb.png">
+![1](https://user-images.githubusercontent.com/75235369/231701518-baf8243a-d607-466c-95bb-ddd9de72562e.png)
 
 ### ii) Display the video
-<img width="70%" height="50%" src ="https://user-images.githubusercontent.com/75234646/162025645-a664d9a5-12b8-4f37-91bc-7b36861a75d1.png">
+![2](https://user-images.githubusercontent.com/75235369/231701544-5f1dc521-d81a-43b3-abca-cd674315f232.png)
 
 ### iii) Display the video by resizing the window
-<img width="70%" height="50%" src ="https://user-images.githubusercontent.com/75234646/162025667-a72dfd9b-61e7-411f-8bd7-d5a7dcfd7159.png">
 
 ### iv) Rotate and display the video
-<img width="70%" height="50%" src ="https://user-images.githubusercontent.com/75234646/162025988-56e0a3a1-7c11-4b32-9f7d-0c9cfb65a80a.png">
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
